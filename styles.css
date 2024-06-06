@@ -1,0 +1,22 @@
+html {
+    padding: 0px;
+    margin: 85px;
+    border: 10px ;
+    text-align: right;
+    background-color:#ffebcd;
+    font-family: monospace;
+    color:blue;
+}
+
+.main-header{
+    font-size: 60px;
+}
+
+
+.main-text{
+    font-size: 21px;
+}
+
+.menu{
+    font-size: 25px;
+}
